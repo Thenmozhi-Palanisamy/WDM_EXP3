@@ -127,7 +127,7 @@ else:
 
 ### Output:
 
-<img width="370" alt="thenu web" src="https://github.com/Thenmozhi-Palani/WDM_EXP3/assets/94442407/9da5c687-83fa-4112-b2c0-6e17f289a8c7">
+![image](https://github.com/Thenmozhi-Palani/WDM_EXP3/assets/94442407/c95f823e-9106-4166-98f7-e9c1e7a695e0)
 
 
 ### Visualization:
