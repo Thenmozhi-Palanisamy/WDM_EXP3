@@ -127,6 +127,9 @@ else:
 
 ### Output:
 
+<img width="370" alt="thenu web" src="https://github.com/Thenmozhi-Palani/WDM_EXP3/assets/94442407/9da5c687-83fa-4112-b2c0-6e17f289a8c7">
+
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
