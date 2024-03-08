@@ -127,7 +127,8 @@ else:
 
 ### Output:
 
-![image](https://github.com/Thenmozhi-Palani/WDM_EXP3/assets/94442407/c95f823e-9106-4166-98f7-e9c1e7a695e0)
+![image](https://github.com/Thenmozhi-Palani/WDM_EXP3/assets/95198708/d1b2aed5-38c5-471e-8aa6-da6f7c1ff4a6)
+
 
 
 ### Visualization:
